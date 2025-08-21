@@ -76,4 +76,4 @@ Order_Items: Stores ordered items and quantities
 
 📌 Note
 
-This is a mini-project for learning purposes and is not production-ready. Contributions and improvements areFunctions:-
+This is a mini-project for learning purposes and is not production-ready. Contributions and improvements are welcomed.
